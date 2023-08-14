@@ -1,0 +1,12 @@
+name: Report
+api: 5.0.0
+version: 1.0.0
+main: ItsFestivalVN\Report
+author: ItsFestivalVN
+commands:
+  report:
+    description: "Report Player"
+    permission: report.cmd
+permissions:
+  report.cmd:
+    default: true
